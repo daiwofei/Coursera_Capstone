@@ -9,4 +9,4 @@ https://www.data.gouv.fr/fr/datasets/base-officielle-des-codes-postaux/.
 First, I need to treat the data to get the 'Borough','Postcode','Latitude' and 'Longitude' in Paris.
 Second, I need to ask for the venues from Foursquare to get the information of venues in Paris.
 Third, I will compare the data of venues in Paris, Manranton and Toronto downtown.
-Finally, I will use some visualsiation tools (matplotlib, plotly, cofflinks) to show the data and tell their difference and similarity.
+Finally, I will use some visualisation tools (matplotlib, plotly, cofflinks) to show the data and tell their difference and similarity.
