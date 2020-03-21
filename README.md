@@ -1,8 +1,9 @@
 # Coursera_Capstone
 
-Hello,
+Hello, \n
 
-I am living in Paris. So I want to explore the boroughs in Paris city. 
+I am living in Paris, an international city, which is has more than 10 millon habitants and many monuments. 
+So I want to explore the boroughs in Paris city. 
 My project is to compare the similarity among the Manranton, Toronto downtown and Paris city.
 The data of Paris city can be selected from the official data 'Communes nouvelles' in the website
 https://www.data.gouv.fr/fr/datasets/base-officielle-des-codes-postaux/.
