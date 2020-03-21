@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# Explore Paris
 
 Hello,
 
