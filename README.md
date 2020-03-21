@@ -1,6 +1,6 @@
 # Coursera_Capstone
 
-Hello, \n
+Hello,
 
 I am living in Paris, an international city, which is has more than 10 millon habitants and many monuments. 
 So I want to explore the boroughs in Paris city. 
