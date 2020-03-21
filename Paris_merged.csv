@@ -1,0 +1,21 @@
+Postcode,Borough,Latitude,Longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+75001,LOUVRE,48.86263048520001,2.33629344655,3,French Restaurant,Hotel,Japanese Restaurant,Plaza,Café,Coffee Shop,Historic Site,Udon Restaurant,Bakery,Art Museum
+75005,PANTHEON,48.8445086596,2.34985938556,3,French Restaurant,Hotel,Italian Restaurant,Bar,Café,Bakery,Plaza,Pub,Coffee Shop,Wine Bar
+75009,OPERA,48.876896162399994,2.33746024139,1,French Restaurant,Hotel,Bistro,Wine Bar,Lounge,Cocktail Bar,Bar,Bakery,Tea Room,Burger Joint
+75010,ENTREPOT,48.876028556899996,2.3611129045599997,3,French Restaurant,Hotel,Bistro,Coffee Shop,Café,Japanese Restaurant,Indian Restaurant,Asian Restaurant,Pizza Place,Bar
+75016,PASSY,48.8603987604,2.2620995594,2,Lake,Plaza,Park,Pool,Bus Station,Bus Stop,Boat or Ferry,Bike Rental / Bike Share,French Restaurant,Art Museum
+75020,MENILMONTANT,48.863186777399996,2.40081982673,3,Bistro,Bakery,Plaza,French Restaurant,Japanese Restaurant,Bar,Italian Restaurant,Hotel,Supermarket,Café
+75014,OBSERVATOIRE,48.8289932116,2.3271008832599995,1,French Restaurant,Hotel,Supermarket,Bistro,Sushi Restaurant,Food & Drink Shop,Tea Room,Fast Food Restaurant,Brasserie,Pizza Place
+75008,ELYSEE,48.872527266599995,2.31258256042,1,French Restaurant,Hotel,Bakery,Spa,Cocktail Bar,Corsican Restaurant,Park,Brasserie,Brewery,Burger Joint
+75018,BUTTE-MONTMARTRE,48.8927350746,2.3487119338699998,3,French Restaurant,Bar,Bistro,Pizza Place,Plaza,Hotel,Italian Restaurant,Restaurant,Convenience Store,Vietnamese Restaurant
+75004,HOTEL-DE-VILLE,48.854228282,2.35736193814,3,French Restaurant,Ice Cream Shop,Pastry Shop,Wine Bar,Hotel,Pedestrian Plaza,Clothing Store,Plaza,Tea Room,Thai Restaurant
+75006,LUXEMBOURG,48.8489680919,2.3326708985900004,3,Bakery,French Restaurant,Pastry Shop,Chocolate Shop,Cocktail Bar,Fountain,Italian Restaurant,Tea Room,Pub,Bistro
+75007,PALAIS-BOURBON,48.8560825982,2.31243868773,1,Hotel,French Restaurant,Café,Italian Restaurant,Plaza,History Museum,Cocktail Bar,Art Museum,Ice Cream Shop,Bistro
+75011,POPINCOURT,48.859415497600004,2.3787410602400003,3,Café,Restaurant,French Restaurant,Pastry Shop,Wine Bar,Vegetarian / Vegan Restaurant,Bistro,Afghan Restaurant,Moroccan Restaurant,South American Restaurant
+75017,BATIGNOLLES-MONCEAU,48.8873371665,2.30748555949,1,French Restaurant,Hotel,Italian Restaurant,Café,Bistro,Japanese Restaurant,Bakery,Plaza,Bus Stop,Restaurant
+75002,BOURSE,48.8679033789,2.3441071666599997,3,French Restaurant,Cocktail Bar,Italian Restaurant,Wine Bar,Bakery,Hotel,Coffee Shop,Thai Restaurant,Bistro,Indie Movie Theater
+75003,TEMPLE,48.863054131800006,2.3593610589700003,3,Coffee Shop,French Restaurant,Gourmet Shop,Burger Joint,Café,Moroccan Restaurant,Boutique,Italian Restaurant,Japanese Restaurant,Sandwich Place
+75012,REUILLY,48.835156230699994,2.4198070349700003,0,Zoo Exhibit,Monument / Landmark,Supermarket,Bistro,Optical Shop,Park,Zoo,Dessert Shop,Dim Sum Restaurant,Food Court
+75013,GOBELINS,48.8287176845,2.36246822852,4,Vietnamese Restaurant,Asian Restaurant,Thai Restaurant,Chinese Restaurant,French Restaurant,Juice Bar,Bakery,Furniture / Home Store,Cambodian Restaurant,Gourmet Shop
+75015,VAUGIRARD,48.8401554186,2.2935593724400003,3,Hotel,Italian Restaurant,French Restaurant,Thai Restaurant,Coffee Shop,Lebanese Restaurant,Restaurant,Japanese Restaurant,Brasserie,Indian Restaurant
+75019,BUTTES-CHAUMONT,48.886868623000005,2.38469432787,3,French Restaurant,Bar,Hotel,Café,Supermarket,Brewery,Seafood Restaurant,Beer Bar,Bistro,Creperie
