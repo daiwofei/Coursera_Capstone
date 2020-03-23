@@ -2,12 +2,4 @@
 
 Hello,
 
-I am living in Paris, an international city, which is has more than 10 millon habitants and many monuments. 
-So I want to explore the boroughs in Paris city. 
-My project is to compare the similarity among the Manranton, Toronto downtown and Paris city.
-The data of Paris city can be selected from the official data 'Communes nouvelles' in the website
-https://www.data.gouv.fr/fr/datasets/base-officielle-des-codes-postaux/.
-First, I need to treat the data to get the 'Borough','Postcode','Latitude' and 'Longitude' in Paris.
-Second, I need to ask for the venues from Foursquare to get the information of venues in Paris.
-Third, I will compare the data of venues in Paris, Manranton and Toronto downtown.
-Finally, I will use some visualisation tools (matplotlib, plotly, cofflinks) to show the data and tell their difference and similarity.
+Paris, capital of France, is one of the largest metropolises in the world with a population of 2,148,271 habitants (official estimate, 1 January 2020) in an area of 105 square kilometers (41 square miles) . Paris ranks as 4th most expensive real estate city in the world from the data of UK branch of the American commercial real estate company CBRE. Because I have been in Paris for more than 5 years and I like to live in this beautiful city with a lower cost, it is very useful for me and the people like me to know the local prices of renting or buying a house in Paris. These information are also useful for those potential investor of property in Paris. That is my motivation to create a map and information chart to present the the real estate index in Paris and the density of venue in each district.
